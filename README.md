@@ -34,7 +34,7 @@ meteorite_consumer.py
 - Using RabbitMQ, this program listens for messages continuously.
 
 ## How to Run the Project:
-- After the conda environment and RabbitMQ has been set up, open a terminal and activate the environment
+- After the conda environment and RabbitMQ have been set up, open a terminal and activate the environment
 - Within the terminal run meteorite_producer.py
 - Open a new terminal and activate the environment
 - Within the second terminal run meteorite_consumer.py
