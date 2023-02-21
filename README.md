@@ -55,4 +55,5 @@ About the Data:
 
 ## Screenshots:
 
-
+![RabbitMQ Admin Page](RabbitMQ_SS)  
+![Terminals Running](Terminal_Running_SS)
