@@ -56,6 +56,9 @@ About the Data:
 View Exploration of the Data:
 - You can view exploration of the data in explore-data.ipynb
 
+## Output:
+- See producer-output.txt and consumer-output.txt 
+
 ## Screenshots:
 
 ![RabbitMQ Admin Page](RabbitMQ_SS.png)  
