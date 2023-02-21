@@ -53,7 +53,10 @@ About the Data:
 - Category: Space Science
 - Owner: NASA Public Data
 
+View Exploration of the Data:
+- You can view exploration of the data in explore-data.ipynb
+
 ## Screenshots:
 
-![RabbitMQ Admin Page](RabbitMQ_SS)  
-![Terminals Running](Terminal_Running_SS)
+![RabbitMQ Admin Page](RabbitMQ_SS.png)  
+![Terminals Running](Terminal_Running_SS.png)
