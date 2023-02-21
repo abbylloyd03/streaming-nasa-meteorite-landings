@@ -57,7 +57,7 @@ View Exploration of the Data:
 - You can view exploration of the data in explore-data.ipynb
 
 ## Output:
-- See producer-output.txt and consumer-output.txt 
+- See producer-out.txt and consumer-out.txt 
 
 ## Screenshots:
 
