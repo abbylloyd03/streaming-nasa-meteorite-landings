@@ -1,0 +1,44 @@
+(base) Abbys-Air:~ Abby$ conda activate sklearn-env
+(sklearn-env) Abbys-Air:~ Abby$ ipython /Users/Abby/Documents/44-671\ Streaming\ Data/Module\ 7/streaming-nasa-meteorite-landings/meteorite_consumer.py 
+ [*] Ready for work. To exit press CTRL+C
+ [x] Received Meteorite Ban Rong Du has fallen at {'latitude': '16.66667', 'longitude': '101.18333'}. This is 2056.5 km from your location.
+ [x] Received Meteorite Andover has fallen at {'latitude': '44.61667', 'longitude': '-70.75'}. This is 11138.56 km from your location.
+ [x] Received Meteorite Chail has fallen at {'latitude': '25.36667', 'longitude': '81.66667'}. This is 1527.89 km from your location.
+ [x] Received Meteorite Borgo San Donino has fallen at {'latitude': '44.86667', 'longitude': '10.05'}. This is 6987.93 km from your location.
+ [x] Received Meteorite Atemajac has fallen at {'latitude': '20.06667', 'longitude': '-103.66667'}. This is 13718.71 km from your location.
+ [x] Received Meteorite Burnwell has fallen at {'latitude': '37.62194', 'longitude': '-82.23722'}. This is 12041.61 km from your location.
+ [x] Received Meteorite Capilla del Monte has fallen at {'latitude': '-30.88333', 'longitude': '-64.55'}. This is 17976.5 km from your location.
+ [x] Received Meteorite Calivo has fallen at {'latitude': '11.75', 'longitude': '122.33333'}. This is 3788.98 km from your location.
+ [x] Received Meteorite Ausson has fallen at {'latitude': '43.08333', 'longitude': '0.58333'}. This is 7757.48 km from your location.
+ [x] Received Meteorite Black Moshannan Park has fallen at {'latitude': '40.91667', 'longitude': '-78.08333'}. This is 11645.39 km from your location.
+ [x] Received Meteorite Cañellas has fallen at {'latitude': '41.25', 'longitude': '1.66667'}. This is 7774.81 km from your location.
+ [x] Received Meteorite Bachmut has fallen at {'latitude': '48.6', 'longitude': '38.0'}. This is 4830.86 km from your location.
+ [x] Received Meteorite Benoni has fallen at {'latitude': '-26.16667', 'longitude': '28.41667'}. This is 9618.8 km from your location.
+ [x] Received Meteorite Baszkówka has fallen at {'latitude': '52.03333', 'longitude': '20.93583'}. This is 5991.64 km from your location.
+ [x] Received Meteorite Chergach  has fallen at {'latitude': '23.69639', 'longitude': '-5.01472'}. This is 9332.33 km from your location.
+ [x] Received Meteorite Baldwyn has fallen at {'latitude': '34.5', 'longitude': '-88.66667'}. This is 12393.19 km from your location.
+ [x] Received Meteorite Alberta has fallen at {'latitude': '2.0', 'longitude': '22.66667'}. This is 8168.31 km from your location.
+ [x] Received Meteorite Berthoud has fallen at {'latitude': '40.30583', 'longitude': '-105.02325'}. This is 11525.27 km from your location.
+ [x] Received Meteorite Benares (a) has fallen at {'latitude': '25.36667', 'longitude': '82.91667'}. This is 1436.24 km from your location.
+ [x] Received Meteorite Cabin Creek has fallen at {'latitude': '35.5', 'longitude': '-93.5'}. This is 12247.83 km from your location.
+ [x] Received Meteorite Beni M'hira has fallen at {'latitude': '32.86667', 'longitude': '10.8'}. This is 7483.36 km from your location.
+ [x] Received Meteorite Carancas has fallen at {'latitude': '-16.66444', 'longitude': '-69.04389'}. This is 17450.22 km from your location.
+ [x] Received Meteorite Braunau has fallen at {'latitude': '50.6', 'longitude': '16.3'}. This is 6341.4 km from your location.
+ [x] Received Meteorite Benton has fallen at {'latitude': '45.95', 'longitude': '-67.55'}. This is 10933.85 km from your location.
+ [x] Received Meteorite Archie has fallen at {'latitude': '38.5', 'longitude': '-94.3'}. This is 11908.12 km from your location.
+ [x] Received Meteorite Chervony Kut has fallen at {'latitude': '50.83333', 'longitude': '34.0'}. This is 5108.84 km from your location.
+ [x] Received Meteorite Bunburra Rockhole has fallen at {'latitude': '-31.35', 'longitude': '129.19'}. This is 8148.45 km from your location.
+ [x] Received Meteorite Bassikounou has fallen at {'latitude': '15.78333', 'longitude': '-5.9'}. This is 9912.38 km from your location.
+ [x] Received Meteorite Botschetschki has fallen at {'latitude': '51.33333', 'longitude': '33.88333'}. This is 5114.72 km from your location.
+ [x] Received Meteorite Aleppo has fallen at {'latitude': '36.23333', 'longitude': '37.13333'}. This is 5102.75 km from your location.
+ [x] Received Meteorite Charsonville has fallen at {'latitude': '47.93333', 'longitude': '1.56667'}. This is 7444.45 km from your location.
+ [x] Received Meteorite Bensour has fallen at {'latitude': '30.0', 'longitude': '-7.0'}. This is 9095.93 km from your location.
+ [x] Received Meteorite Al Zarnkh has fallen at {'latitude': '13.66033', 'longitude': '28.96'}. This is 6875.78 km from your location.
+ [x] Received Meteorite Cali has fallen at {'latitude': '3.405', 'longitude': '-76.51'}. This is 15738.48 km from your location.
+ [x] Received Meteorite Bhagur has fallen at {'latitude': '20.88333', 'longitude': '74.83333'}. This is 2381.02 km from your location.
+ [x] Received Meteorite Bjurböle has fallen at {'latitude': '60.4', 'longitude': '25.8'}. This is 5597.07 km from your location.
+^C
+ User interrupted continuous listening process.
+
+Closing connection. Goodbye.
+
