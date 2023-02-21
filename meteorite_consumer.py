@@ -1,5 +1,5 @@
 """
-    Using RabbitMQ, This program listens for messages continuously.
+    Using RabbitMQ, this program listens for messages continuously.
 
     Abby Lloyd, 21 Feb 2023
 """

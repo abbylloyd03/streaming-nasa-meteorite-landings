@@ -1,6 +1,6 @@
 """
     This script imports data from NASA's Meteorite Landings dataset using
-    the NASA API, powered by Socrata. The data is added to a Pandas dataset.
+    a NASA API, powered by Socrata. The data is added to a Pandas dataset.
     After asking for the user's latitude and longitude, the distance from 
     the user's location and the meteorite landing is calculated.
     Messages are streamed from a RabbitMQ producer, containing the name of
